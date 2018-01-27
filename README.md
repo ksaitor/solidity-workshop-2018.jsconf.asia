@@ -3,8 +3,8 @@
 Due to popular demand we are putting up some code snippets that we used during the workshop
 
 ## Authors
-- Dave Appleton [@AppletonDave](https://twitter.com/appletondave)
-- Raman Shalupau [@ksaitor](https://twitter.com/ksaitor)
+- Dave Appleton • [@AppletonDave](https://twitter.com/appletondave) of [@HelloGold](https://twitter.com/FoundationHG)
+- Raman Shalupau • [@ksaitor](https://twitter.com/ksaitor) of [@CryptoJobsList](https://twitter.com/cryptojobslist)
 
 ## List of tools mentioned
 - https://remix.ethereum.org/
