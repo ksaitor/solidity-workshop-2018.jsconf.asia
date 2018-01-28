@@ -29,7 +29,7 @@
     "stylus": "^0.54.5"
   },
   "scripts": {
-    "start": "parce app/index.html",
+    "start": "parcel app/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
